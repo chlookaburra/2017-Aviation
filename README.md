@@ -1,2 +1,2 @@
 # 2017-Aviation
-My project…
+My project is...
