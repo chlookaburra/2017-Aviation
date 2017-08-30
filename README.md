@@ -1,2 +1,2 @@
 # 2017-Aviation
-My project is...
+Goal: to enable smooth, efficient flight with ornithopter morphing wings
